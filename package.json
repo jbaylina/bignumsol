@@ -1,0 +1,23 @@
+{
+  "name": "bignumsol",
+  "version": "0.0.1",
+  "description": "Big Number Library for Solidity",
+  "main": "div.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "solidity",
+    "big",
+    "number",
+    "math",
+    "rsa"
+  ],
+  "author": "Jordi Baylina",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "bignumber.js": "^3.0.1",
+    "ethconnector": "0.0.18",
+    "ursa": "^0.9.4"
+  }
+}
